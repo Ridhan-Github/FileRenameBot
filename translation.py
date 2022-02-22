@@ -1,7 +1,11 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} , \nI'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail And Custom Caption support!</b> \n
+    START_TEXT = """  👋 ʜᴇʟʟᴏ, {} 
 
-<b>Bot Maintained By: @MaI_BoTs </b> \n 
+Tʜɪꜱ ɪꜱ ꜰɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴡɪᴛʜ ꜰɪʟᴇ ᴄᴏɴᴠᴇʀᴛᴇʀ
+
+Pʀᴇꜱꜱ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ...  
+
+Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://t.me/Disney_Bots)
 """
 
     BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
