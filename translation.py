@@ -85,6 +85,6 @@ ABOUT_ME = """
 
     NO_THUMB_FOUND = "**Nᴏ ᴛʜᴜᴍʙɴᴀɪʟ ꜰᴏᴜɴᴅ 😟**"
 
-    IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
+    IFLONG_FILE_NAME = """ᴅᴇᴄʀᴇᴀᴄᴇ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ʟᴇᴛᴛᴇʀs"""
 
     CCAPTION_HELP = """Here Are The Available Commands In Custom Caption \n\n\n ▪️<code>/scaption</code> Use This Command To Save Your Custom Caption \n<b>Usage:</b> <code>/scaption your caption text</code> \n\n<b>[You Can Use</b> <code>{filename}</code> <b>For showing new file name in the caption]</b> """
