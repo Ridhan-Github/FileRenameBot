@@ -8,9 +8,7 @@ Pʀᴇꜱꜱ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ...
 Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://t.me/Disney_Bots)
 """
 
-HELP_USER = """
-
-**Rᴇɴᴀᴍᴇ**
+HELP_USER = """ **Rᴇɴᴀᴍᴇ**
 
 ➠ sᴇɴᴅ ᴀ ғɪʟᴇ ᴏʀ ᴍᴇᴅɪᴀ ᴛᴏ ʀᴇᴘʟʏ /rename ғɪʟᴇ ɴᴀᴍᴇ.ᴇxᴛᴇɴsɪᴏɴ
 
@@ -34,12 +32,9 @@ HELP_USER = """
 
 sᴇᴛ ᴄᴀᴘᴛɪᴏɴ
 
-➠ sᴇɴᴛ /scaption ʏᴏᴜʀ ᴄᴀᴘᴛɪᴏɴ ᴛᴇxᴛ ᴀɴᴅ ᴜsᴇ {filename} ғᴏʀ ɪɴ ғɪʟᴇ ɴᴀᴍᴇ ɪɴ ᴄᴀᴘᴛɪᴏɴ.
-"""
+➠ sᴇɴᴛ /scaption ʏᴏᴜʀ ᴄᴀᴘᴛɪᴏɴ ᴛᴇxᴛ ᴀɴᴅ ᴜsᴇ {filename} ғᴏʀ ɪɴ ғɪʟᴇ ɴᴀᴍᴇ ɪɴ ᴄᴀᴘᴛɪᴏɴ. """
 
-ABOUT_ME = """
-
-**Mʏ ɴᴀᴍᴇ :** [Rᴇɴᴀᴍᴇ ᴘʀᴏ ʙᴏᴛ](http://t.me/RenamerXProRobot)
+ABOUT_ME = """ **Mʏ ɴᴀᴍᴇ :** [Rᴇɴᴀᴍᴇ ᴘʀᴏ ʙᴏᴛ](http://t.me/RenamerXProRobot)
 
 **Cʜᴀɴɴᴇʟ :** [ᴅɪsɴᴇʏ ʙᴏᴛꜱ](https://t.me/Disney_Bots)
 
@@ -57,8 +52,7 @@ ABOUT_ME = """
 
 **Dᴇᴠᴇʟᴏᴘᴇʀ :** [𝙼𝚘𝚗𝚎𝚢𝙴𝚊𝚛𝚗𝚅𝙸𝙿](https://t.me/tamilanxbots)
 
-**Pᴏᴡᴇʀᴇᴅ ʙʏ :** [@ᴅɪsɴᴇʏʜᴅʟɪɴᴋs](https://t.me/DisneyHDLinks)
-"""
+**Pᴏᴡᴇʀᴇᴅ ʙʏ :** [@ᴅɪsɴᴇʏʜᴅʟɪɴᴋs](https://t.me/DisneyHDLinks) """
 
 
     BANNED_USER_TEXT = "<b> sᴏʀʀʏ! ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ /n/nᴄᴏɴᴛᴀᴄᴛ - https://t.me/DisneyBots_Support </b>  " 
