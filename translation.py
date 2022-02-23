@@ -35,25 +35,25 @@ HELP_USER = """
 
 ABOUT_ME = """
 
-Mʏ ɴᴀᴍᴇ : Rᴇɴᴀᴍᴇ ᴘʀᴏ ʙᴏᴛ
+**Mʏ ɴᴀᴍᴇ :** [Rᴇɴᴀᴍᴇ ᴘʀᴏ ʙᴏᴛ](http://t.me/RenamerXProRobot)
 
-Cʜᴀɴɴᴇʟ : ᴅɪsɴᴇʏ ʙᴏᴛꜱ
+**Cʜᴀɴɴᴇʟ :** [ᴅɪsɴᴇʏ ʙᴏᴛꜱ](https://t.me/Disney_Bots)
 
-Vᴇʀꜱɪᴏɴ : 1.0 ʙᴇᴛᴀ
+**Vᴇʀꜱɪᴏɴ :** [1.0 ʙᴇᴛᴀ](http://t.me/RenamerXProRobot)
 
-Sᴏᴜʀᴄᴇ : Cʟɪᴄᴋ Hᴇʀᴇ
+**Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/tamilanbots)
 
-Dᴀᴛᴀʙᴀꜱᴇ : Mᴏɴɢᴏᴅʙ
+**Dᴀᴛᴀʙᴀꜱᴇ :** [Mᴏɴɢᴏᴅʙ](https://www.mongodb.com/)
 
-Sᴇʀᴠᴇʀ : Hᴇʀᴏᴋᴜ
+**Sᴇʀᴠᴇʀ :** [Hᴇʀᴏᴋᴜ](https://heroku.com/)
 
-Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3.10.2
+**Lᴀɴɢᴜᴀɢᴇ :** [Pʏᴛʜᴏɴ 3.9.5](https://www.python.org/)
 
-Fʀᴀᴍᴇᴡᴏʀᴋ : Pʏʀᴏɢʀᴀᴍ 1.4.7
+**Fʀᴀᴍᴇᴡᴏʀᴋ :** [Pʏʀᴏɢʀᴀᴍ 1.4.7](https://docs.pyrogram.org/)
 
-Dᴇᴠᴇʟᴏᴘᴇʀ : 𝙼𝚘𝚗𝚎𝚢𝙴𝚊𝚛𝚗𝚅𝙸𝙿
+**Dᴇᴠᴇʟᴏᴘᴇʀ :** [𝙼𝚘𝚗𝚎𝚢𝙴𝚊𝚛𝚗𝚅𝙸𝙿](https://t.me/tamilanxbots)
 
-Pᴏᴡᴇʀᴇᴅ ʙʏ : @ᴅɪsɴᴇʏʜᴅʟɪɴᴋs
+**Pᴏᴡᴇʀᴇᴅ ʙʏ :** [@ᴅɪsɴᴇʏʜᴅʟɪɴᴋs](https://t.me/DisneyHDLinks)
 """
 
 
