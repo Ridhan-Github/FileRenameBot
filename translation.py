@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """  👋 ʜᴇʟʟᴏ, {} ♡
+    START_TEXT = """  👋 ʜᴇʟʟᴏ,  {} ♡
 
 Tʜɪꜱ ɪꜱ ꜰɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴡɪᴛʜ ꜰɪʟᴇ ᴄᴏɴᴠᴇʀᴛᴇʀ
 
@@ -66,7 +66,9 @@ ABOUT_ME = """
     SAVED_RECVD_DOC_FILE = "<b>File Downloaded Successfully 😎</b>"
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Please Reply To An File With /rename fil name extension To rename a file</b>"
     REPLY_TO_FILE_FOR_CONVERT = "<b> Please Reply To An File With /c2v To Convert It Into Streamable video File</b>"
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = " **ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴜsᴇ ᴍᴇ**
+
+**ᴊᴏɪɴ - @DisneyBots** "
     NO_THUMB_FOUND = "**Nᴏ ᴛʜᴜᴍʙɴᴀɪʟ ꜰᴏᴜɴᴅ 😟**"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
     RENAME_HELP = """Here are The Available Commands In Reanme \n\n\n▪️ <code>/rename</code> : Reply To An File/video With <code>/rename Filename.extension</code> For Renaming"""
