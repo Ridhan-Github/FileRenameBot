@@ -61,7 +61,9 @@ ABOUT_ME = """
 """
 
 
-    BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
+    BANNED_USER_TEXT = "<b> sᴏʀʀʏ! ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ 
+
+ᴄᴏɴᴛᴀᴄᴛ @DisneyBots_Support </b>  " 
 
     DOWNLOAD_START = "<b> DᴏᴡɴʟᴏᴀᴅɪɴG </b>"
 
