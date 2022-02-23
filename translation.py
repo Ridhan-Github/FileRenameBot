@@ -10,23 +10,27 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://t.me/Disney_Bots)
 
 HELP_USER = """
 
-Rᴇɴᴀᴍᴇ
+**Rᴇɴᴀᴍᴇ**
 
 ➠ sᴇɴᴅ ᴀ ғɪʟᴇ ᴏʀ ᴍᴇᴅɪᴀ ᴛᴏ ʀᴇᴘʟʏ /rename ғɪʟᴇ ɴᴀᴍᴇ.ᴇxᴛᴇɴsɪᴏɴ
 
 ➠ ᴍᴜsᴛ ʀᴇᴘʟʏ ғɪʟᴇ ɴᴀᴍᴇ ᴀɴᴅ ᴇxᴛᴇɴsɪᴏɴ.
 
-sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
+**ᴄᴏɴᴠᴇʀᴛ ᴠɪᴅᴇᴏ**
+
+➠ sᴇɴᴅ ғɪʟᴇ ᴛᴏ ʀᴇᴘʟʏ /convert ɪᴛ ᴄᴏɴᴠᴇʀᴛ ᴀ ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛ
+
+**sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ**
 
 ➠ sᴇɴᴅ ᴀ ᴘʜᴏᴛᴏ ᴛᴏ ᴍᴀᴋᴇ ɪᴛ ᴀs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-ᴅᴇʟᴇᴛɪɴɢ ᴛʜᴜᴍʙɴᴀɪʟ
+**ᴅᴇʟᴇᴛɪɴɢ ᴛʜᴜᴍʙɴᴀɪʟ**
 
-➠ sᴇɴᴅ /delthumbnail ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ.
+➠ sᴇɴᴅ /delthumb ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
+**sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ**
 
-➠ sᴇɴᴅ /showthumbnail ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
+➠ sᴇɴᴅ /showthumb ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
 
 
     BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
