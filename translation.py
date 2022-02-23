@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """  👋 ʜᴇʟʟᴏ,  {} ♡
+    START_TEXT = """  👋 ʜᴇʟʟᴏ, {} ♡
 
 Tʜɪꜱ ɪꜱ ꜰɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴡɪᴛʜ ꜰɪʟᴇ ᴄᴏɴᴠᴇʀᴛᴇʀ
 
