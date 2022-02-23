@@ -63,7 +63,7 @@ ABOUT_ME = """
 
     BANNED_USER_TEXT = "<b> sᴏʀʀʏ! ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ 
 
-ᴄᴏɴᴛᴀᴄᴛ @DisneyBots_Support </b>  " 
+ᴄᴏɴᴛᴀᴄᴛ - https://t.me/DisneyBots_Support </b>  " 
 
     DOWNLOAD_START = "<b> DᴏᴡɴʟᴏᴀᴅɪɴG </b>"
 
@@ -71,7 +71,7 @@ ABOUT_ME = """
 
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b> ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴜsᴇ ᴍᴇ ᴊᴏɪɴ : @Disney_Bots </b>"
 
-    SAVED_CUSTOM_THUMB_NAIL = "**Yᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ ✓**"
+    SAVED_CUSTOM_THUMB_NAIL = "Yᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ ✓"
 
     DEL_ETED_CUSTOM_THUMB_NAIL = "<b> ᴛʜᴜᴍɴᴀɪʟ ᴅᴇʟᴇᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ </b>"
 
@@ -81,11 +81,11 @@ ABOUT_ME = """
 
     REPLY_TO_FILE_FOR_CONVERT = "<b> Rᴇᴘʟʏ ᴛᴏ ᴛʜᴀᴛ ꜰɪʟᴇ ᴡɪᴛʜ /convert ᴄᴏᴍᴍᴀɴᴅ </b>"
 
-    CUSTOM_CAPTION_UL_FILE = " **ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴜsᴇ ᴍᴇ**
+    CUSTOM_CAPTION_UL_FILE = " ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴜsᴇ ᴍᴇ
 
-**ᴊᴏɪɴ - @DisneyBots** "
+ᴊᴏɪɴ - https://t.me/DisneyBots  "
 
-    NO_THUMB_FOUND = "**Nᴏ ᴛʜᴜᴍʙɴᴀɪʟ ꜰᴏᴜɴᴅ 😟**"
+    NO_THUMB_FOUND = "Nᴏ ᴛʜᴜᴍʙɴᴀɪʟ ꜰᴏᴜɴᴅ 😟"
 
     IFLONG_FILE_NAME = """ᴅᴇᴄʀᴇᴀᴄᴇ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ʟᴇᴛᴛᴇʀs"""
 
