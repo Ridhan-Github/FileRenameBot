@@ -40,15 +40,15 @@ from database.db import *
 async def set_caption(bot, update):
     if len(update.command) == 1:
         await update.reply_text(
-            "Custom Caption \n\n you can use this command to set your own caption  \n\n Usage : /scaption Your caption text \n\n note : For current file name use : <code>{filename}</code>", 
+            "ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ \n\n sᴇɴᴛ /scaption ʏᴏᴜʀ ᴄᴀᴘᴛɪᴏɴ ᴛᴇxᴛ ᴀɴᴅ ᴜsᴇ {filename} ғᴏʀ ɪɴ ғɪʟᴇ ɴᴀᴍᴇ ɪɴ ᴄᴀᴘᴛɪᴏɴ ", 
             quote = True, 
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Show Current Caption', callback_data = "shw_caption")      
+                    InlineKeyboardButton('ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴄᴀᴘᴛɪᴏɴ', callback_data = "shw_caption")      
                 ],
                 [
-                    InlineKeyboardButton('Delete Caption', callback_data = "d_caption")
+                    InlineKeyboardButton('ᴅᴇʟᴇᴛᴇ', callback_data = "d_caption")
                 ]
             ]
         ) 
@@ -70,9 +70,9 @@ async def rename_doc(bot, update):
                return
         except UserNotParticipant:
             await update.reply_text(
-                text="**Due To The Huge Traffic Only Channel Members Can Use This Bot Means You Need To Join The Below Mentioned Channel Before Using Me! **",
+                text="** Pʟᴇᴀᴄᴇ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜꜱᴇ ᴍᴇ **",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
